@@ -46,7 +46,9 @@ You're now talking to Claude. The screen looks like a chat.
 
 ### Step 3 — Paste this exactly
 
-Copy this whole message. Replace `PASTE-YOUTUBE-URL-HERE` with the YouTube channel URL you want to turn into a tutor (like `https://www.youtube.com/@MrBeast`). (IF CLAUDE SHOWS [PASTED 10 LINES] etc, go to docs.new which opens a new google doc, paste the prompt then replace the PASTE-YOUTUBE-URL-HERE with the actual url)
+Copy this whole message. Replace `PASTE-YOUTUBE-URL-HERE` with the YouTube channel URL you want to turn into a tutor (like `https://www.youtube.com/@MrBeast`). 
+
+**(IF CLAUDE SHOWS [PASTED 10 LINES] etc, go to docs.new which opens a new google doc, paste the prompt then replace the PASTE-YOUTUBE-URL-HERE with the actual url)**
 
 Then paste it into Claude Code and press Enter:
 
