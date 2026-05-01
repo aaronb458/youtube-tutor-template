@@ -52,7 +52,7 @@ Copy this whole message. Replace `PASTE-YOUTUBE-URL-HERE` with the YouTube chann
 I want to build a YouTube tutor. Please clone this repo, then follow the
 CLAUDE.md instructions inside it to walk me through everything step by step:
 
-   https://github.com/YOUR-USERNAME/youtube-tutor-template
+   https://github.com/aaronb458/youtube-tutor-template
 
 The YouTube channel I want to turn into a tutor is:
    PASTE-YOUTUBE-URL-HERE
