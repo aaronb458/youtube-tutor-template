@@ -1,0 +1,22 @@
+{
+  "name": "youtube-tutor-template",
+  "version": "1.0.0",
+  "description": "Build an AI tutor from any YouTube channel. Free local mode or full cloud MCP server.",
+  "type": "module",
+  "scripts": {
+    "start": "node src/mcp-server.js",
+    "local": "node scripts/local-tutor.js",
+    "scrape": "node scripts/scrape.js",
+    "check": "node scripts/setup-check.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.28.0",
+    "@supabase/supabase-js": "^2.49.0",
+    "express": "^5.2.1",
+    "zod": "^3.23.8"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
